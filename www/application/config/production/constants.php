@@ -86,3 +86,4 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 //
 define('THIS_ENVIROMENT', 'production');
+define('TEST_CODE', 'P');
